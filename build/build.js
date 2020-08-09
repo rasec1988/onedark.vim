@@ -15,7 +15,7 @@ const baseColors = Object.freeze({
 	purple: { gui: '#C678DD', cterm: '170',  cterm16: '5' }, // alternate cterm: 176
 	cyan: { gui: '#56B6C2', cterm: '38', cterm16: '6' }, // alternate cterm: 73
 	white: { gui: '#ABB2BF', cterm: '145', cterm16 : '7' },
-	black: { gui: '#282C34', cterm: '235', cterm16: '0' }
+	black: { gui: '#FFFFFF', cterm: '235', cterm16: '0' }
 })
 
 const specialColors = Object.freeze({
