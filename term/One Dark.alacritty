@@ -3,7 +3,7 @@ colors:
   # Default colors
   primary:
     foreground: '0xabb2bf'
-    background: '0xffffff'
+    background: '0x000000'
 
   # Cursor colors
   cursor:
